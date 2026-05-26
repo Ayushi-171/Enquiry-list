@@ -1,64 +1,46 @@
-# 📋 Enquiry List
+# 📋 Enquiry Manager — CRM-Style Web App
 
-> A simple yet effective enquiry management system to track and organize customer inquiries in one place.
+> A lightweight enquiry tracking app that captures customer details via form and renders them instantly in a live, responsive table — no page reload required.
 
 ## 🌐 Live Demo
-Try it now! **[Visit the live app here](https://ayushi-171.github.io/Enquiry-list/)**
+
+**[Try the live app →](https://ayushi-171.github.io/Enquiry-list/)**
 
 ---
 
 ## 📖 About
 
-This is an intuitive enquiry tracking application built with HTML, CSS, and JavaScript. It allows you to add, view, and manage customer enquiries with a user-friendly interface designed for quick access and organization.
+Built to simulate a real-world CRM intake flow. Users fill in a form (name, email, phone, message), and the data is instantly added to a structured table below — with the ability to delete individual entries. No frameworks, no libraries — pure JavaScript DOM manipulation.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — Semantic structure
-- **CSS3** — Modern styling
-- **JavaScript** — Interactive features
+- **HTML5** — Semantic form and table structure  
+- **CSS3** — Responsive layout and clean UI  
+- **JavaScript (ES6)** — DOM manipulation, event handling, input validation
 
 ---
 
 ## ✨ Features
 
-- ➕ Add new enquiries with customer details
-- 📊 View all enquiries in a structured list
-- 🗑️ Delete enquiries when resolved
-- 🔍 Easy-to-scan enquiry information
-- 🎨 Clean and intuitive interface
+- Form input with real-time validation  
+- Dynamic table rendering on form submit — no page reload  
+- Delete individual enquiry entries  
+- Fully responsive across screen sizes  
+- Clean, minimal UI focused on usability
 
 ---
 
-## 💡 What I Learned
+## 💡 What This Demonstrates
 
-This project demonstrates:
-- DOM manipulation and event handling
-- Form handling and validation
-- Local data management
-- Dynamic list rendering
-- Interactive UI design patterns
+- DOM manipulation and event-driven programming  
+- Form handling and client-side input validation  
+- Dynamic list rendering and CRUD-style operations  
+- Building functional UIs without any framework
 
 ---
 
-## 🤝 Contributing
+## 👤 Built By
 
-Found a bug? Have suggestions? Contributions welcome!
-- Report issues
-- Submit pull requests
-- Share feature ideas
-
----
-
-## 📝 License
-
-Open source and free to use.
-
----
-
-## 👤 Created By
-
-**Ayushi-171**
-
-Happy managing! 📧
+**Ayushi Swami** — [Portfolio](https://ayushi-171.github.io/My_Portfolio/) · [GitHub](https://github.com/Ayushi-171) · [LinkedIn](https://linkedin.com/in/ayushi-swami-aayu)
