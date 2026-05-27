@@ -16,10 +16,11 @@ Built to simulate a real-world CRM intake flow. Users fill in a form (name, emai
 
 ## 🛠️ Tech Stack
 
-- **HTML5** — Semantic form and table structure  
-- **CSS3** — Responsive layout and clean UI  
-- **JavaScript (ES6)** — DOM manipulation, event handling, input validation
-
+- **React.js** — Component-based UI and state management
+- **JavaScript (ES6+)** — Form logic, input validation, dynamic rendering
+- **CSS3** — Responsive layout and clean UI
+- **HTML5** — Semantic structure
+  
 ---
 
 ## ✨ Features
@@ -29,6 +30,17 @@ Built to simulate a real-world CRM intake flow. Users fill in a form (name, emai
 - Delete individual enquiry entries  
 - Fully responsive across screen sizes  
 - Clean, minimal UI focused on usability
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+├── App.js          # Core logic — form handling, validation, table rendering
+├── App.css         # Styling and responsive layout
+└── index.js        # Entry point
+```
 
 ---
 
